@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
@@ -155,8 +155,7 @@ export default function Home() {
               role: "Food Critic",
               company: "Culinary Times",
               rating: 5,
-              imageSrc: "https://images.pexels.com/photos/9826293/pexels-photo-9826293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              quote: "The most authentic Italian experience outside of Italy. Every dish tells a story of tradition and passion."
+              imageSrc: "https://images.pexels.com/photos/9826293/pexels-photo-9826293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
             },
             {
               id: "2",
@@ -164,8 +163,7 @@ export default function Home() {
               role: "Regular Customer",
               company: "Local Foodie",
               rating: 5,
-              imageSrc: "https://images.pexels.com/photos/1674113/pexels-photo-1674113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              quote: "I've been coming here for years and the quality never disappoints. It feels like dining with family."
+              imageSrc: "https://images.pexels.com/photos/1674113/pexels-photo-1674113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
             },
             {
               id: "3",
@@ -173,8 +171,7 @@ export default function Home() {
               role: "Event Planner",
               company: "Elegant Events",
               rating: 5,
-              imageSrc: "https://images.pexels.com/photos/1850595/pexels-photo-1850595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              quote: "Perfect venue for special occasions. The atmosphere and service create magical moments for our clients."
+              imageSrc: "https://images.pexels.com/photos/1850595/pexels-photo-1850595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
             },
             {
               id: "4",
@@ -182,8 +179,7 @@ export default function Home() {
               role: "Business Executive",
               company: "Corporate Dining",
               rating: 5,
-              imageSrc: "https://images.pexels.com/photos/9566219/pexels-photo-9566219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              quote: "Excellent choice for business dinners. The elegant ambiance and exceptional cuisine impress every time."
+              imageSrc: "https://images.pexels.com/photos/9566219/pexels-photo-9566219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
             }
           ]}
         />
@@ -200,22 +196,19 @@ export default function Home() {
               id: "1",
               name: "Chef Marco Benedetti",
               role: "Head Chef",
-              imageSrc: "https://images.pexels.com/photos/7552730/pexels-photo-7552730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              bio: "With over 20 years of experience in traditional Italian cooking, Marco brings authentic flavors from his hometown in Tuscany."
+              imageSrc: "https://images.pexels.com/photos/7552730/pexels-photo-7552730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
             },
             {
               id: "2",
               name: "Chef Anna Vitale",
               role: "Pasta Specialist",
-              imageSrc: "https://images.pexels.com/photos/3771814/pexels-photo-3771814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              bio: "Anna specializes in handmade pasta and learned her craft from her grandmother in the hills of Emilia-Romagna."
+              imageSrc: "https://images.pexels.com/photos/3771814/pexels-photo-3771814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
             },
             {
               id: "3",
               name: "Chef Giuseppe Romano",
               role: "Pizza Master",
-              imageSrc: "https://images.pexels.com/photos/3771814/pexels-photo-3771814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              bio: "Giuseppe is a certified Neapolitan pizza maker who trained in Naples and brings authentic wood-fired pizza techniques."
+              imageSrc: "https://images.pexels.com/photos/3771814/pexels-photo-3771814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
             }
           ]}
         />
